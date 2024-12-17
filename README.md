@@ -1,4 +1,4 @@
 # aula-de-versionamento
 entendendo para que serve
 
-add configuração github
+add configuração gith
